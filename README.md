@@ -23,38 +23,6 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 - **JWT Authentication**: JSON Web Tokens used for user authentication and authorization.
 - **Chakra-UI**: React components for implementing Google's Material Design.
 
-### Home Page
-![Home Page](/screenshots/home_page.png)
-
-### Sign Up Page
-![Sign Up Page](/screenshots/signup_page.png)
-
-### Login Page
-![Login Page](/screenshots/login_page.png)
-
-### User Dashboard
-![User Dashboard](/screenshots/user_dashboard.png)
-
-### Admin Dashboard
-![Admin Dashboard](/screenshots/admin_dashboard.png)
-
-### User Shown to Admin
-![User Shown to Admin](/screenshots/user_shown_to_admin.png)
-
-### All Courses Shown to Admin
-![All Courses Shown to Admin](/screenshots/all_courses_admin.png)
-
-### Courses Overview
-![Courses Overview](/screenshots/courses_overview.png)
-
-### Payment Gateway
-![Payment Gateway](/screenshots/payment_gateway.png)
-
-### All Courses Available
-![All Courses Available](/screenshots/all_courses_available.png)
-
-### User Enrolled Courses
-![User Enrolled Courses](/screenshots/user_enrolled_courses.png)
 
 ## Installation
 
@@ -106,7 +74,3 @@ If you'd like to contribute to the project:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of the changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
