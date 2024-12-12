@@ -1,5 +1,4 @@
 # Online-Learning-Platform-Using-MERN
-Software Engineering Course Project
 
 ## Description
 
