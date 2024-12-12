@@ -29,7 +29,7 @@ This is an Online Learning Platform built using the MERN (MongoDB, Express.js, R
 1. Clone the repository:
 
 ```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
+https://github.com/Ravivarma-V/Online_Learning_Platform-.git
 ```
 
 2. Navigate to the project directory:
